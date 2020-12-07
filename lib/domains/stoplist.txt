@@ -50,7 +50,6 @@ ccc.edu
 nfs.edu.rs
 cqu.edu.cn
 losrios.edu
-vccs.edu
 mail.dream.edu.kg
 sierracollege.edu
 sss.edu.bi
